@@ -15,3 +15,15 @@ C:\Users\Arsen\Desktop\Новая папка\WebApp\WebApp\bin\Debug\netcoreapp2
 C:\Users\Arsen\Desktop\Новая папка\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebApp.dll
 C:\Users\Arsen\Desktop\Новая папка\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebApp.pdb
 C:\Users\Arsen\Desktop\Новая папка\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebAPI.xml
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebApp.deps.json
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebApp.runtimeconfig.json
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebApp.runtimeconfig.dev.json
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebApp.dll
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebApp.pdb
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\bin\Debug\netcoreapp2.0\netcoreapp2.0\WebAPI.xml
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.csprojAssemblyReference.cache
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfo.cs
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.dll
+C:\Users\Arsen\Desktop\Новая папка\PushNotification\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.pdb

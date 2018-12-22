@@ -13140,11 +13140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arsen\\Desktop\\Новая папка\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Arsen\\Desktop\\Новая папка\\PushNotification\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\Arsen\\Desktop\\Новая папка\\WebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\Arsen\\Desktop\\Новая папка\\PushNotification\\WebApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\Arsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arsen\\Desktop\\Новая папка\\WebApp\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\Arsen\\Desktop\\Новая папка\\PushNotification\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
